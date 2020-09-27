@@ -1,0 +1,7 @@
+Guide for Birthday-Seasons Code
+
+* The user will input name, birth month, and birth day in to an input statement.
+
+* The input statement will traverse through the if statement, and when it sees the number it will correspond do the correct season.
+
+* For instance: your birth month is May, which is 5; therefore, the if statement will take the month and return the season "Spring Baby."
