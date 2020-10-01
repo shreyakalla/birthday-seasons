@@ -25,7 +25,12 @@ else:
   season = "Winter"
   ```
 
+**The reason we, as project admins/contributors, went with this License is because it offers flexibilty to the users. It doesn't require source code to be public and allows for modifications to be released under any license but it still provides us with protection.** 
+
+
 **The reason we, as project admins/contributors, went with this CODE OF CONDUCT is because it easily fulfills all the requirements and information that we believe
 should be explained in the contract. It clarifies our mission, values and principles, and this code articulates the values this project wishes to foster in leaders and employees.**
+
+
 
 ![alt-text](https://media.giphy.com/media/RlZouK6QqVVHNIxp6I/giphy.gif)
